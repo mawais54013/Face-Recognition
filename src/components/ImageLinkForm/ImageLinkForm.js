@@ -4,7 +4,7 @@ import './ImageLinkForm.css'
 const ImageLinkForm = () => {
     return (
         <div className="ma4 mt0">
-            <p className="f3">
+            <p className="b f3">
                 {'This Scanner will detect faces in your pictures. Give it a try'}
             </p>
             <div className='center'>
