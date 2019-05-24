@@ -1,3 +1,4 @@
+// setting up sever files in other folders
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
