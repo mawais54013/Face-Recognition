@@ -1,6 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<!-- Status: testing postgreSQL -->
-<!-- Will apply in next push -->
+<!-- Everything works and its awesome -->
 ## Available Scripts
 
 In the project directory, you can run:
