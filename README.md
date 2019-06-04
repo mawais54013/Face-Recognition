@@ -43,3 +43,10 @@ APIs and Libraries
 
     Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. CSS toolkit. 
 
+* [Clarifai](https://clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection#documentation)
+
+    Face detection API 
+
+
+# Wireframe and Layout
+
