@@ -5,7 +5,7 @@ const textStyle = {
 }
 
 const boldText = {
-  fontWeight: 'bold',
+  fontWeight: '900',
   fontSize: '20px'
 }
 

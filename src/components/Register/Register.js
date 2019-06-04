@@ -1,7 +1,8 @@
 import React from 'react';
 
 const textStyle = {
-  fontSize: '20px'
+  fontSize: '20px',
+  fontWeight: '900'
 }
 
 class Register extends React.Component {
