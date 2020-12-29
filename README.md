@@ -97,4 +97,4 @@ Hope everyone enjoys this application, I had a really great time creating the pr
 Thank you
 
 # Author
-* **Muhammad** - https://github.com/mawais54013
+* **Muhammad Awais** - https://github.com/mawais54013
